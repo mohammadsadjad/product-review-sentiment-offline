@@ -15,3 +15,7 @@ pip install -r requirements.txt
 python model.py
 python -m streamlit run app.py
 ```
+
+
+public URL:## Live App
+Public link: https://YOUR-LINK-HERE
