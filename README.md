@@ -17,5 +17,4 @@ python -m streamlit run app.py
 ```
 
 
-public URL:## Live App
-Public link: https://YOUR-LINK-HERE
+public URL:https://appuct-review-sentiment-offline-kaytkjfgqmr59twvkf2efi.streamlit.app
